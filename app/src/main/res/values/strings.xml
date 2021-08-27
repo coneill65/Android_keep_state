@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android keep state</string>
+    <string name="click_me_btn">Click me</string>
+    <string name="string">Hello!</string>
+</resources>
